@@ -3,6 +3,6 @@ rollup.config.js
 /.vscode/
 /src/
 tsconfig.json
-/build/index.html
-/build/favicon.png
-/build/global.css
+/dist/index.html
+/dist/favicon.png
+/dist/global.css
